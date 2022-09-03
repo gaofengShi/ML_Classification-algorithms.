@@ -1,7 +1,7 @@
 # ML_Classification-algorithms.
 This learning involves trying out a variety of classification algorithms and at least one clustering algorithm. It requires use of python, numpy, matplotlib, and sklearn, so it also serves as an introduction to all those tools. Code in jupyter notebook.
 
-There are four dataset: steel-plates-fault, ionosphere, bandnotes, and fake data. \
+There are four dataset: steel-plates-fault, ionosphere, bandnotes, and fake data. \\
 
 It applied the following models, in Sklearn:\
 
